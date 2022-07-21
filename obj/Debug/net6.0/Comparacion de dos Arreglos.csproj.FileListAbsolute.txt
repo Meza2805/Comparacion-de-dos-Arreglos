@@ -1,0 +1,15 @@
+C:\Users\lionm\Documents\Visual Studio Code c#\Comparacion de dos Arreglos\bin\Debug\net6.0\Comparacion de dos Arreglos.exe
+C:\Users\lionm\Documents\Visual Studio Code c#\Comparacion de dos Arreglos\bin\Debug\net6.0\Comparacion de dos Arreglos.deps.json
+C:\Users\lionm\Documents\Visual Studio Code c#\Comparacion de dos Arreglos\bin\Debug\net6.0\Comparacion de dos Arreglos.runtimeconfig.json
+C:\Users\lionm\Documents\Visual Studio Code c#\Comparacion de dos Arreglos\bin\Debug\net6.0\Comparacion de dos Arreglos.dll
+C:\Users\lionm\Documents\Visual Studio Code c#\Comparacion de dos Arreglos\bin\Debug\net6.0\Comparacion de dos Arreglos.pdb
+C:\Users\lionm\Documents\Visual Studio Code c#\Comparacion de dos Arreglos\obj\Debug\net6.0\Comparacion de dos Arreglos.csproj.AssemblyReference.cache
+C:\Users\lionm\Documents\Visual Studio Code c#\Comparacion de dos Arreglos\obj\Debug\net6.0\Comparacion de dos Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lionm\Documents\Visual Studio Code c#\Comparacion de dos Arreglos\obj\Debug\net6.0\Comparacion de dos Arreglos.AssemblyInfoInputs.cache
+C:\Users\lionm\Documents\Visual Studio Code c#\Comparacion de dos Arreglos\obj\Debug\net6.0\Comparacion de dos Arreglos.AssemblyInfo.cs
+C:\Users\lionm\Documents\Visual Studio Code c#\Comparacion de dos Arreglos\obj\Debug\net6.0\Comparacion de dos Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\lionm\Documents\Visual Studio Code c#\Comparacion de dos Arreglos\obj\Debug\net6.0\Comparacion de dos Arreglos.dll
+C:\Users\lionm\Documents\Visual Studio Code c#\Comparacion de dos Arreglos\obj\Debug\net6.0\refint\Comparacion de dos Arreglos.dll
+C:\Users\lionm\Documents\Visual Studio Code c#\Comparacion de dos Arreglos\obj\Debug\net6.0\Comparacion de dos Arreglos.pdb
+C:\Users\lionm\Documents\Visual Studio Code c#\Comparacion de dos Arreglos\obj\Debug\net6.0\Comparacion de dos Arreglos.genruntimeconfig.cache
+C:\Users\lionm\Documents\Visual Studio Code c#\Comparacion de dos Arreglos\obj\Debug\net6.0\ref\Comparacion de dos Arreglos.dll
